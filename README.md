@@ -1,8 +1,10 @@
 # Sudoku Game
 Hey! my name is Mohit Singh, here are my contacts: 
-Email: emailtomohitsingh@gmail.com 
-Instagram: @mohit_was_here 
-Linkedin: www.linkedin.com/in/mochi-momo 
+LinkedIn: https://www.linkedin.com/in/mochi-momo/
+github: https://github.com/mochi-momo
+YouTube: https://www.youtube.com/channel/UCn2KHtlnvJNd3oRqH7tMjkg
+email: emailtomohitsingh@gmail.com
+Instagram: @mohit_was_here
 
 Hi! I made this game for a Python project in school.
 In this repository the sudoku_board_solver.py file takes a preformatted file for a sudoku puzzle and outputs a solution.
