@@ -1,3 +1,10 @@
+"""
+LinkedIn: https://www.linkedin.com/in/mochi-momo/
+github: https://github.com/mochi-momo
+YouTube: https://www.youtube.com/channel/UCn2KHtlnvJNd3oRqH7tMjkg
+email: emailtomohitsingh@gmail.com
+Instagram: @mohit_was_here
+"""
 class solve:
     def __init__(self,board):
         self.board=board
