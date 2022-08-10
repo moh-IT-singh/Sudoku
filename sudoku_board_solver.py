@@ -1,6 +1,7 @@
-"""LinkedIn: https://www.linkedin.com/in/mochi-momo/
+"""
+LinkedIn: https://www.linkedin.com/in/mochi-momo/
 github: https://github.com/mochi-momo
-YouTube: https://www.youtube.com/channel/UCn2K...
+YouTube: https://www.youtube.com/channel/UCn2KHtlnvJNd3oRqH7tMjkg
 email: emailtomohitsingh@gmail.com
 Instagram: @mohit_was_here
 """
