@@ -1,3 +1,9 @@
+"""LinkedIn: https://www.linkedin.com/in/mochi-momo/
+github: https://github.com/mochi-momo
+YouTube: https://www.youtube.com/channel/UCn2K...
+email: emailtomohitsingh@gmail.com
+Instagram: @mohit_was_here
+"""
 def nextSpace(board):
     for r in range(9):
         for c in range(9):
